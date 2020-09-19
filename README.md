@@ -1,3 +1,7 @@
+# Intro
+Python is majorly used for ML/DL applications. Numpy and Pandas are used commonly. Operations of large datasets comprising of text, images etc can be performed. The idea is to predict a target variable given other parameters based on some pre-exisiting data.
+These algorithms/techniques can be of different types.
+
 # ML-DL
 - https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb#scrollTo=C34nqef2NbYe
 - https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=-Rh3-Vt9Nev9
