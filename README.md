@@ -16,6 +16,8 @@ Article on Linear Regression
 - Sklearn linear regression 
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 
+Kaggle notebook for California Housing prediction
+https://www.kaggle.com/namyarunlg/california-house-price-simple-linear-regression/edit
 
 
 
